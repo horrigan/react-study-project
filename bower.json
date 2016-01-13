@@ -1,0 +1,21 @@
+{
+  "name": "react-study-project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Denis Azaare"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "~6.3.0"
+  }
+}
